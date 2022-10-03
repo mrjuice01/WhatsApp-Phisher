@@ -15,6 +15,7 @@ When victim enter his credentials, you need to go to original website and use th
 the best tool for whatsapp-phishing with otp Bypass ..
 ![hi](https://user-images.githubusercontent.com/100421286/193521763-228188af-048a-44e7-b13f-fe495004f28d.jpg)
 ![wh](https://user-images.githubusercontent.com/100421286/193522000-ad655a30-bfe7-4beb-831b-435fbe12a3c6.png)
+</details>
    
 # Requirements
 1. ngrok setup
